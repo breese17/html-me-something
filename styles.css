@@ -1,3 +1,18 @@
+header{ 
+    margin: 10px 300px 20px;
+    font-size: 25px
+}
+article h1 {
+    margin: 5px 500px 5px;
+    font-size: 30px;
+
+}
+
+article p {
+    margin: 20px 400px 75px;
+
+}
+
 body{
     
     background: radial-gradient(circle, white, blue);
@@ -10,9 +25,9 @@ display: inline-block;
 }
 .topic {
     font-weight: bold;
-    color: red;
-    font-size: 40px;
-    padding-top: 50px;
+    color: rgb(255, 0, 170);
+    font-size: 25px;
+    padding-top: 5px;
     padding-right: 30px;
     padding-bottom: 50px;
     padding-left: 80px;
