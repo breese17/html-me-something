@@ -3,3 +3,41 @@ body{
     background: radial-gradient(circle, white, blue);
 
 }
+div 
+{
+position: relative;
+display: inline-block;
+}
+.topic {
+    font-weight: bold;
+    color: red;
+    font-size: 40px;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+.content { 
+        margin: 100px 100px 75px;
+        font-weight: normal;
+        color:black;
+        font-size: 20px;
+  }
+
+.divider  {
+        margin: 100px 400px 75px;
+        font-size: 40px;
+}
+
+
+ul {
+    margin: 10px 350px 75px;
+    font-size: 30px;
+}
+
+div img {
+    margin: 100px 400px 75px;
+    
+
+}
